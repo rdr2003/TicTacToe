@@ -1,2 +1,2 @@
 # TicTacToe
- Console-based Tic Tac Toe game where two players take turns to mark X or O.
+ Console-based Tic Tac Toe game where two players take turns to mark X or O.The code implements a console-based Tic Tac Toe game where two players alternate turns placing 'X' or 'O' symbols on a 3x3 grid. The program validates player moves, prevents overwrites, and checks for win conditions or a draw. The main loop orchestrates player turns until the game concludes. The display_board function visually presents the evolving game state. Upon completion, it announces the winner or declares a draw. The code achieves a balanced gameplay experience with concise and well-structured logic, capturing the essence of the classic Tic Tac Toe.
