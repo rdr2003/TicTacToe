@@ -4,9 +4,11 @@ Rajarshi Das Rachi(222-115-214)
 Console-based Tic Tac Toe game where two players take turns to mark X or O.
 
 Project Description:
+
 The provided code is a console-based implementation of the classic Tic Tac Toe game in C++. The game is played on a 3x3 grid, and two players, represented by 'X' and 'O,' take turns marking cells on the grid. The game continues until one player achieves a winning configuration or until all cells are filled, resulting in a draw.
 
 How to build and run the project:
+
 Game Initialization:
 The project begins with a 3x3 array named board for the virtual battleground. The variable turn tracks the current player ('X' or 'O'), while the boolean draw awaits the verdict of a potential draw.
 Displaying the Game Board:
@@ -23,4 +25,5 @@ Conclusion:
 In summary, this C++ program offers an immersive implementation of Tic Tac Toe in a console environment, with a concise yet engaging codebase. Running this program invites users to partake in a digital rendition of the timeless contest, combining strategic depth with nostalgic charm.
 
 Additional Instructions or Dependencies:
+
 The provided C++ Tic Tac Toe implementation does not have additional dependencies beyond a standard C++ compiler.
